@@ -1,6 +1,6 @@
 {
   "name": "ethereum-explorer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "NPM Javascript package to make easy the interaction with Ethereum blockchain",
   "main": "index.js",
   "scripts": {
