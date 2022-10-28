@@ -1,2 +1,2 @@
 # ethereum-explorer
-NPM Javascript package to make easy the interaction with Ethereum blockchain
+NPM Javascript package to make easy the interaction with Ethereum blockchain.

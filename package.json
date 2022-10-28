@@ -1,0 +1,23 @@
+{
+  "name": "ethereum-explorer",
+  "version": "1.0.0",
+  "description": "NPM Javascript package to make easy the interaction with Ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielefavi/ethereum-explorer.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "info@danielefavi.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielefavi/ethereum-explorer/issues"
+  },
+  "homepage": "https://github.com/danielefavi/ethereum-explorer#readme"
+}
