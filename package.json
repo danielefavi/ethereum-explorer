@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/danielefavi/ethereum-explorer/issues"
   },
-  "homepage": "https://github.com/danielefavi/ethereum-explorer#readme"
+  "homepage": "https://github.com/danielefavi/ethereum-explorer#readme",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
 }

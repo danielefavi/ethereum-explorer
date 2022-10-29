@@ -1,3 +1,5 @@
+const Web3 = require('web3');
+
 /**
  * Utility class to make easier the interaction with the Ethereum blockchain.
  */
