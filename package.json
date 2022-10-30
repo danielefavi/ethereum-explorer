@@ -14,7 +14,7 @@
     "ethereum",
     "blockchain"
   ],
-  "author": "info@danielefavi.com",
+  "author": "Daniele Favi <info@danielefavi.com> (http://www.danielefavi.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/danielefavi/ethereum-explorer/issues"
